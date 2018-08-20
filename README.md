@@ -6,3 +6,5 @@ Day 2 of Node JS
     - Timeout & Interval
 
 To install REST Client (from VS code), prompt, express, path, body-parser
+
+//app.js was repetition of router.js
