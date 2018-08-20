@@ -1,0 +1,24 @@
+{
+  "name": "d-2",
+  "version": "1.0.0",
+  "description": "enrichment class node day 2",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HsuYeePhyo/NodeJS_Day2.git"
+  },
+  "author": "HYP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HsuYeePhyo/NodeJS_Day2/issues"
+  },
+  "homepage": "https://github.com/HsuYeePhyo/NodeJS_Day2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "prompt": "^1.0.0"
+  }
+}

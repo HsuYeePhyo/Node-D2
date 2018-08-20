@@ -1,0 +1,8 @@
+POST http://localhost:1337/group3 HTTP/1.1
+content-type: application/json
+
+{
+    "id": "8",
+    "time": "Mon, 20 Aug 2018 15:24:50 GMT",
+    "money": "$$$$$$"
+}
